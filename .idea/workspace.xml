@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3199eafe-e99b-4506-86dd-84d6e6b2ce74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/mockoon/rental-oc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/postman/rental.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/sql/script.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/me/me.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/me/me.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/me/me.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/not-found/not-found.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/not-found/not-found.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/not-found/not-found.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/auth-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/auth.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/login/login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/register/register.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/components/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/interfaces/authSuccess.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/interfaces/loginRequest.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/interfaces/registerRequest.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/auth/services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/detail/detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/detail/detail.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/detail/detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/form/form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/form/form.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/form/form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/list/list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/list/list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/components/list/list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/interfaces/api/messageRequest.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/interfaces/api/messageResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/interfaces/api/rentalResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/interfaces/api/rentalsResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/interfaces/rental.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/rental-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/rentals.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/services/messages.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/features/rentals/services/rentals.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/guards/auth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/guards/unauth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/interceptors/jwt.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/interfaces/user.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/session.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/user.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/components/owner-info/owner-info.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/components/owner-info/owner-info.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/components/owner-info/owner-info.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NQKIPuiMkQZnvL1ssnavPscchI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/grunz/Desktop/OpenClassroom/Developpez-le-back-end-en-utilisant-Java-et-Spring",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3199eafe-e99b-4506-86dd-84d6e6b2ce74" name="Changes" comment="" />
+      <created>1679590785296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679590785296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
